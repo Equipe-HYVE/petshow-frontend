@@ -34,7 +34,7 @@
     "@ngx-translate/http-loader": "^6.0.0",
     "@types/openlayers": "^4.6.17",
     "angular-validate-br": "0.1.0-beta",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^4.4.1",
     "http-server": "^0.12.3",
     "material-design-icons": "^3.0.1",
